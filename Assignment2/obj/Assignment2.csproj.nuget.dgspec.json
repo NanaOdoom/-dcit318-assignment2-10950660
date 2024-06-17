@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Documents\\-dcit318-assignment2-10950660\\Assignment2\\Assignment2.csproj": {}
+    "c:\\Users\\DELL\\Documents\\-dcit318-assignment2-10950660\\Assignment2\\Assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Documents\\-dcit318-assignment2-10950660\\Assignment2\\Assignment2.csproj": {
+    "c:\\Users\\DELL\\Documents\\-dcit318-assignment2-10950660\\Assignment2\\Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Documents\\-dcit318-assignment2-10950660\\Assignment2\\Assignment2.csproj",
+        "projectUniqueName": "c:\\Users\\DELL\\Documents\\-dcit318-assignment2-10950660\\Assignment2\\Assignment2.csproj",
         "projectName": "Assignment2",
-        "projectPath": "C:\\Users\\DELL\\Documents\\-dcit318-assignment2-10950660\\Assignment2\\Assignment2.csproj",
+        "projectPath": "c:\\Users\\DELL\\Documents\\-dcit318-assignment2-10950660\\Assignment2\\Assignment2.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Documents\\-dcit318-assignment2-10950660\\Assignment2\\obj\\",
+        "outputPath": "c:\\Users\\DELL\\Documents\\-dcit318-assignment2-10950660\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

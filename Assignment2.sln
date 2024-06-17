@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2", "Assignment2\Assignment2.csproj", "{7FC5347F-DE98-4662-8B16-F5165D219270}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "makeSound", "makeSound\makeSound.csproj", "{9F4C731A-ABF7-4D92-8F0A-FAEA341F3E67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7FC5347F-DE98-4662-8B16-F5165D219270}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FC5347F-DE98-4662-8B16-F5165D219270}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FC5347F-DE98-4662-8B16-F5165D219270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4C731A-ABF7-4D92-8F0A-FAEA341F3E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4C731A-ABF7-4D92-8F0A-FAEA341F3E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4C731A-ABF7-4D92-8F0A-FAEA341F3E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4C731A-ABF7-4D92-8F0A-FAEA341F3E67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
