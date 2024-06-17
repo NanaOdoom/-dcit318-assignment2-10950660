@@ -4,7 +4,7 @@ namespace Assignment2{
             public virtual void MakeSound(){ // method created to print out some generic sounds as long as Animal is concerned. The keyword virtual is used in becuase of its future inheritance
                 Console.WriteLine("Some generic sounds"); // Output for the method MakeSound
             }
-        
+    }
 
         class Dog : Animal{ // New object called Dog, inheriting methods from Animal
             public override void MakeSound(){ // The MakeSound() method is overridden in the system to out put a sound known as Bark
@@ -18,6 +18,7 @@ namespace Assignment2{
                 Console.WriteLine("Meow");
             }
         }
+        public class Program{
 
         static void Main(string[] args){ // Main method created to make the program completes
 

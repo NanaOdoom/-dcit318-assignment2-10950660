@@ -2,7 +2,7 @@ using System;
 namespace Assignment2{
     public interface IMovable{
         void Move();
-        
+    }
         class Car : IMovable{
             public void Move() { 
                 Console.WriteLine("Car is moving");
@@ -13,6 +13,8 @@ namespace Assignment2{
                 Console.WriteLine("Bicycle is moving");
             }
         }
+
+    public class Interface{
 
         static void Main(string[] args) {
             Car Lambo = new Car();

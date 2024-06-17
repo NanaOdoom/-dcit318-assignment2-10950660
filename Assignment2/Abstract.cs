@@ -3,6 +3,7 @@ namespace Assignment2
 {
     abstract class Shape{
         public abstract double GetArea();
+    }
         class Circle : Shape{
             public double Radius { get; set; } 
 
@@ -18,6 +19,7 @@ namespace Assignment2
                 return Width * Lenght;
             }
         }
+        public class Abstract{
         static void Main(string[] args){
             Circle circle = new Circle(){Radius = 5};
             circle.GetArea();
