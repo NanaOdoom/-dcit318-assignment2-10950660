@@ -4,7 +4,8 @@ namespace Assignment2{
         void Move();
     }
         class Car : IMovable{
-            public void Move() { 
+            // void IMovable.Move() => This is also another way that totally overrides the class and the method...cannot be instantiated.
+            public void Move(){ 
                 Console.WriteLine("Car is moving");
             }
         }
